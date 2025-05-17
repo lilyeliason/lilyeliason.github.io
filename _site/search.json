@@ -7,31 +7,17 @@
     "text": "i love many things!\nback to home"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "homepage",
-    "section": "",
-    "text": "Hello, I’m Lily!\nWelcome to my site! This is the homepage.\n\n🪿 About Me\n🦆 Projects"
-  },
-  {
-    "objectID": "index.html#hello-im-lily",
-    "href": "index.html#hello-im-lily",
-    "title": "homepage",
-    "section": "",
-    "text": "Welcome to my site! This is the homepage.\nAbout me →"
-  },
-  {
-    "objectID": "index.html#learn-more",
-    "href": "index.html#learn-more",
-    "title": "homepage",
-    "section": "",
-    "text": "About Me\nProjects"
-  },
-  {
     "objectID": "projects.html",
     "href": "projects.html",
     "title": "projects",
     "section": "",
     "text": "tbd\nback to home"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "homepage",
+    "section": "",
+    "text": "Hello, I’m Lily!\nWelcome to my site! This is the homepage.\n\n🪿 About Me\n🦆 Projects"
   }
 ]
