@@ -1,28 +1,27 @@
-/* css styles */
 body {
   font-family: 'proxima-nova', sans-serif;
   color: #333333;
   background-color: #f7f9fa;
-  max-width: 700px;
+  max-width: 900px;
   margin: 0 auto;
   padding: 2rem;
   line-height: 1.6;
 }
 
 .quarto-title-block h1 {
-  color: #ff4f00 !important;  /* Persimmon Orange */
+  color: #ff4f00 !important;
   font-family: 'proxima-nova', sans-serif;
   font-weight: 600;
 }
 
 main h1, main h2, main h3, main h4, main h5, main h6 {
-  color: #2e3b4e;  
+  color: #2e3b4e;
   font-family: 'proxima-nova', sans-serif;
   font-weight: 600;
 }
 
 a {
-  color: #00796b;  
+  color: #00796b;
   text-decoration: none;
 }
 
@@ -40,4 +39,30 @@ footer {
 
 .toc {
   display: none;
+}
+
+.gallery-grid {
+  column-count: 2;
+  column-gap: 16px;
+}
+
+.gallery-grid img {
+  width: 100%;
+  display: inline-block;
+  margin-bottom: 16px;
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* Responsive tweaks */
+@media (max-width: 900px) {
+  .gallery-grid {
+    column-count: 2;
+  }
+}
+
+@media (max-width: 600px) {
+  .gallery-grid {
+    column-count: 1;
+  }
 }
