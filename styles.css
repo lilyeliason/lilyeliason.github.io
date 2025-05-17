@@ -1,1 +1,43 @@
 /* css styles */
+body {
+  font-family: 'proxima-nova', sans-serif;
+  color: #333333;
+  background-color: #f7f9fa;
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 2rem;
+  line-height: 1.6;
+}
+
+.quarto-title-block h1 {
+  color: #ff4f00 !important;  /* Persimmon Orange */
+  font-family: 'proxima-nova', sans-serif;
+  font-weight: 600;
+}
+
+main h1, main h2, main h3, main h4, main h5, main h6 {
+  color: #2e3b4e;  
+  font-family: 'proxima-nova', sans-serif;
+  font-weight: 600;
+}
+
+a {
+  color: #00796b;  
+  text-decoration: none;
+}
+
+a:hover {
+  color: #004d40;
+  text-decoration: underline;
+}
+
+footer {
+  text-align: center;
+  margin-top: 2rem;
+  color: #777;
+  font-size: 0.9rem;
+}
+
+.toc {
+  display: none;
+}
