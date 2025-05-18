@@ -1,23 +1,30 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "projects",
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "BLOG",
     "section": "",
-    "text": "i love many things!\nback to home"
+    "text": "Lily Eliason\n  \n  \n    HOMEPAGE\n    RESUME\n    PROJECTS\n    BLOG\n  \n  \n  \n\n\n\n\n\n\n\ntest 1\n\nMay 17, 2025\n\nfirst little test\n\n\n\n\n\n\n\ntest 2\n\nMay 17, 2025\n\nsecond little test\n\n\n\n\n\nback to home"
   },
   {
     "objectID": "projects.html",
     "href": "projects.html",
-    "title": "Projects",
+    "title": "PROJECTS",
     "section": "",
-    "text": "test gallery\n\n       \n\nBack to Home"
+    "text": "Lily Eliason\n  \n  \n    HOMEPAGE\n    RESUME\n    PROJECTS\n    BLOG\n  \n  \n  \n\n\n\n\n\nsome of my little extracurricular personal projects :)\n\n       \n\nback to home"
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "RESUME",
+    "section": "",
+    "text": "Lily Eliason\n  \n  \n    HOMEPAGE\n    RESUME\n    PROJECTS\n    BLOG\n  \n  \n  \n\n\n\n\n\nresume to be\nback to home"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "homepage",
+    "title": "Lily ELiason",
     "section": "",
-    "text": "Hello, I’m Lily!\nWelcome to my site! This is the homepage.\n\n🪿 About Me\n🦆 Projects"
+    "text": "Lily Eliason\n  \n  \n    HOMEPAGE\n    RESUME\n    PROJECTS\n    BLOG\n  \n  \n  \n\n\n\n\n\nStatistics student at Brigham Young University with research interest in\n\n\n\n🌿 environmental geochemistry and lake ecology\n\n\n🌐 spatial predictive modeling\n\n\n📈 data analytics and visualization\n\n\n\n\ninstagram linkedin gmail"
   }
 ]
