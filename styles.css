@@ -108,16 +108,14 @@ a:hover {
   box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
 }
 
+/* navigation bar */
+
 .site-nav {
-  display: flex;
-  justify-content: center;
-  gap: 0;
   position: sticky;
   top: 0;
   z-index: 1000;
   background: transparent;
-  padding: 1rem var(--page-padding);
-  border-bottom: none;
+  padding: 1rem 0;
 }
 
 .site-nav .nav-left,
@@ -127,7 +125,11 @@ a:hover {
 
 .site-nav .nav-center {
   display: flex;
-  gap: 6rem;
+  justify-content: flex-start;        
+  gap: var(--nav-gap);               
+  max-width: 1000px;                  
+  margin: 0 auto;                    
+  width: 100%;                        
 }
 
 .site-nav .nav-center a {
@@ -145,6 +147,7 @@ a:hover {
   color: #004d40;
   text-decoration: underline;
 }
+
 
 .quarto-title-block h1 {
   margin-bottom: 1.5rem !important;
